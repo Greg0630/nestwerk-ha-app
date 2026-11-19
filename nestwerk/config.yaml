@@ -1,5 +1,5 @@
-name: Nestwerk
-version: "0.2.0"
+name: FamilyBoard
+version: "0.3.0"
 slug: nestwerk
 description: Familien-App für Einkaufslisten und Kalender
 arch:
@@ -16,5 +16,9 @@ ports:
 ports_description:
   8765/tcp: Weboberfläche (Ziel für den Cloudflare Tunnel)
 webui: http://[HOST]:[PORT:8765]/
-options: {}
-schema: {}
+options:
+  google_client_id: ""
+  google_client_secret: ""
+schema:
+  google_client_id: str?
+  google_client_secret: password?
