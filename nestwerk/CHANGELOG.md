@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.16.0
+- Alle Listen außer der Einkaufsliste liegen jetzt in FamilyBoard selbst – nicht mehr in Home Assistant, nicht für Alexa/Assist sichtbar
+- Bestehende, von der App angelegte Listen werden beim ersten Start mit allen Einträgen, Notizen und Anhängen übernommen und danach in Home Assistant gelöscht
+
 ## 0.15.32
 - Listen nur für dich: „Mitteilungen“ im Menü ausgeblendet (niemand sonst kann sie auslösen)
 - Abgehakte Einträge verschwinden zuverlässig, auch wenn die Live-Verbindung der App kurz hängt
