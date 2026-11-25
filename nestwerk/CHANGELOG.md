@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.16.1
+- Listen springen beim Eintragen/Löschen nicht mehr: „Übertrage …“ erscheint nur noch, wenn es länger dauert, und schwebt über der Navileiste
+
 ## 0.16.0
 - Alle Listen außer der Einkaufsliste liegen jetzt in FamilyBoard selbst – nicht mehr in Home Assistant, nicht für Alexa/Assist sichtbar
 - Bestehende, von der App angelegte Listen werden beim ersten Start mit allen Einträgen, Notizen und Anhängen übernommen und danach in Home Assistant gelöscht
