@@ -1,5 +1,12 @@
 # Änderungen
 
+## 0.16.3
+- Gestapelte Personenbilder: die erste Person liegt jetzt auch bei vielen Personen oben, mit Trennring in allen Browsern
+- Screenreader lesen die Namen bei den Personenbildern vor
+- Doppelt eingetragene Personen bringen die Ansicht nicht mehr zum Absturz
+- Nach einem Update startet die App offline wieder richtig (keine weiße Seite mehr)
+- Tipp auf eine Benachrichtigung öffnet zuverlässig die passende Seite
+
 ## 0.16.2
 - Gestapelte Personenbilder bei Terminen: die erste Person liegt jetzt oben, die weiteren darunter
 
