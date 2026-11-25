@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.16.2
+- Gestapelte Personenbilder bei Terminen: die erste Person liegt jetzt oben, die weiteren darunter
+
 ## 0.16.1
 - Listen springen beim Eintragen/Löschen nicht mehr: „Übertrage …“ erscheint nur noch, wenn es länger dauert, und schwebt über der Navileiste
 
