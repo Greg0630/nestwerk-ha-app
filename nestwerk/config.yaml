@@ -1,5 +1,5 @@
 name: FamilyBoard
-version: "0.15.28"
+version: "0.15.29"
 slug: nestwerk
 description: Familien-App für Einkaufslisten und Kalender
 arch:
@@ -19,6 +19,8 @@ webui: http://[HOST]:[PORT:8765]/
 options:
   google_client_id: ""
   google_client_secret: ""
+  admin_password_reset: ""
 schema:
   google_client_id: str?
   google_client_secret: password?
+  admin_password_reset: password?
