@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.15.31
+- Kalender: der heutige Tag hat oben und unten eine Linie
+- Listen: Trennlinien unter den Kategorien etwas dünner
+
 ## 0.15.30
 - Benachrichtigungen: kein Ein/Aus-Knopf mehr – was abgehakt ist, ist auf diesem Gerät aktiv
 - Neues Häkchen „Termine (wenn im Termin aktiviert)“: Erinnerungen lassen sich einzeln abschalten
