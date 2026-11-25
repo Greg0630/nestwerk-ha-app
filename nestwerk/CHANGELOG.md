@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.15.32
+- Listen nur für dich: „Mitteilungen“ im Menü ausgeblendet (niemand sonst kann sie auslösen)
+- Abgehakte Einträge verschwinden zuverlässig, auch wenn die Live-Verbindung der App kurz hängt
+
 ## 0.15.31
 - Kalender: der heutige Tag hat oben und unten eine Linie
 - Listen: Trennlinien unter den Kategorien etwas dünner
