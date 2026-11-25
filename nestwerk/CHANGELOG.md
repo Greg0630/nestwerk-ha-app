@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.15.30
+- Benachrichtigungen: kein Ein/Aus-Knopf mehr – was abgehakt ist, ist auf diesem Gerät aktiv
+- Neues Häkchen „Termine (wenn im Termin aktiviert)“: Erinnerungen lassen sich einzeln abschalten
+
 ## 0.15.29
 - Admin-Passwort vergessen: neues Passwort über die App-Einstellungen in HA setzen (Feld `admin_password_reset`)
 - Mengen ausgeschaltet: auch schon eingetragene Mengen werden ausgeblendet
