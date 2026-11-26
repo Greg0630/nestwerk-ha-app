@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.16.4
+- Terminzahl oben: bei weniger Terminen rollt die neue Zahl von unten herein, bei gleich vielen oder mehr von oben
+
 ## 0.16.3
 - Gestapelte Personenbilder: die erste Person liegt jetzt auch bei vielen Personen oben, mit Trennring in allen Browsern
 - Screenreader lesen die Namen bei den Personenbildern vor
