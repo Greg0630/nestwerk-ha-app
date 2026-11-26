@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.16.5
+- Heute-Seite lässt sich nicht mehr ein Stück scrollen, wenn sie gar nicht voll ist
+
 ## 0.16.4
 - Terminzahl oben: bei weniger Terminen rollt die neue Zahl von unten herein, bei gleich vielen oder mehr von oben
 
