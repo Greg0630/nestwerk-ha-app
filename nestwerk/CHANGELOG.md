@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.17.0
+- Stundenplan aus Home Assistant: auf „Heute“ steht über den Terminen, wann Schule ist und was gerade läuft
+- Antippen zeigt die Stunden des Tages und die ganze Woche; ohne Schule wird der nächste Schultag angezeigt
+
 ## 0.16.5
 - Heute-Seite lässt sich nicht mehr ein Stück scrollen, wenn sie gar nicht voll ist
 
