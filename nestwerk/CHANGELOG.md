@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.17.3
+- Stundenplan-Woche: etwas höhere Felder
+
 ## 0.17.2
 - Stundenplan-Fenster: „Heute“ oder „Woche“ – umschalten per Tippen oder Wischen, das Fenster behält seine Höhe
 
