@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.17.2
+- Stundenplan-Fenster: „Heute“ oder „Woche“ – umschalten per Tippen oder Wischen, das Fenster behält seine Höhe
+
 ## 0.17.1
 - Benachrichtigungen zu Terminen: kurzer Titel, Terminname im Text – aufgeklappt ist er jetzt vollständig lesbar
 - Schul-Eintrag: gleicher Abstand zu den Terminen wie zwischen den Terminen
