@@ -1,5 +1,10 @@
 # Änderungen
 
+## 0.19.0
+- Neuer Listentyp „Rezepte“: Rezeptsammlung mit Zutaten (Portionen umrechnen, fehlende Zutaten auf die Einkaufsliste) und Zubereitung
+- Kochmodus: ein Schritt je Seite, Zutaten des Schritts, Timer; Bildschirm bleibt an
+- Rezepte von Hand anlegen oder aus einem Link übernehmen (z. B. Rezeptwelt, Cookidoo – dort ohne Zubereitung, Thermomix-Blogs); auch über das Teilen-Menü
+
 ## 0.18.2
 - Seite „Ich“: ohne Überschrift, obere Linie und Hinweistext; Familienbilder etwas größer und mittig unter dem Profilbild, „Bearbeiten“ bündig
 
