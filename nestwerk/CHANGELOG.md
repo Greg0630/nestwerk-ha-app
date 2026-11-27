@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.17.8
+- Dünnere Rahmen um Eingabefelder und umrandete Knöpfe
+
 ## 0.17.7
 - Einzeln geänderter Serientermin zeigt beim erneuten Bearbeiten seine eigenen Angaben statt der der Serie
 - Anmeldeseite: „Board“ in der Überschrift grau
