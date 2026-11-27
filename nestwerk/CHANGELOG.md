@@ -1,5 +1,10 @@
 # Änderungen
 
+## 0.19.1
+- Teilen-Menü: bei erkanntem Rezept Umschalter „Als Rezept | Auf Liste“ mit Vorschau; der Haken speichert das Gewählte
+- Rezept-Titel ohne Zusätze wie „Rezept des Tages 12.11.2015“ oder „| Chefkoch“
+- Mehrzeilige Felder wachsen mit dem Text (kein Scrollbalken mehr im Notiz-Feld)
+
 ## 0.19.0
 - Neuer Listentyp „Rezepte“: Rezeptsammlung mit Zutaten (Portionen umrechnen, fehlende Zutaten auf die Einkaufsliste) und Zubereitung
 - Kochmodus: ein Schritt je Seite, Zutaten des Schritts, Timer; Bildschirm bleibt an
