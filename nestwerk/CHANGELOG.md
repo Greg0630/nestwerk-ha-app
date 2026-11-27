@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.18.0
+- Teilen (Android): FamilyBoard erscheint im Teilen-Menü; Geteiltes landet auf einer bestehenden oder neuen Liste (Link als Notiz, mehrere Zeilen auf Wunsch als einzelne Einträge). Dafür die App einmal neu auf den Startbildschirm legen.
+
 ## 0.17.9
 - Termin-Formular: Speichern per Haken oben rechts statt ✕; „Speichern“ und „Abbrechen“ unten entfallen (Abbrechen per Wischen)
 - „Weitere Angaben“ in Akzentfarbe, ohne Trennlinie
