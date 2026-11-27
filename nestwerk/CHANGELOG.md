@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.19.5
+- Kochmodus: Schritte in ruhigerer Schrift (kleiner, halbfett, mehr Zeilenabstand) – lange Schritte passen besser
+
 ## 0.19.4
 - Teilen: Fenster öffnet erst, wenn die Prüfung fertig ist, gleich in fertiger Größe (kein kurzes kleines Fenster mehr); „Link wird geprüft …“ nur, wenn es länger als 1,5 s dauert
 
