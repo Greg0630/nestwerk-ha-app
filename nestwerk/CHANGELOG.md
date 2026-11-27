@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.19.3
+- Teilen: erst „Link wird geprüft …“, dann direkt das passende Fenster (kein kurzes Aufblitzen des Listen-Formulars)
+
 ## 0.19.2
 - Rezept: ausgewählte Zutaten kommen immer auf die Einkaufsliste (ohne Listenauswahl), Knopf „Auf Einkaufsliste“
 
