@@ -1,5 +1,10 @@
 # Änderungen
 
+## 0.17.4
+- Termin-Formular: Ort, Notiz und Wiederholen unter „Weitere Angaben“ (klappt weich auf; mit Inhalt automatisch offen)
+- Termin-Fenster nur so hoch wie nötig
+- Startseite: kleine Überschrift „Termine“ zwischen Schul-Eintrag und Terminen
+
 ## 0.17.3
 - Stundenplan-Woche: etwas höhere Felder
 
