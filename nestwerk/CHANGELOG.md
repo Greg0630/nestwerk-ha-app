@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.17.5
+- Startseite: unter dem Schul-Eintrag wieder die durchgehende Linie statt der Überschrift „Termine“
+
 ## 0.17.4
 - Termin-Formular: Ort, Notiz und Wiederholen unter „Weitere Angaben“ (klappt weich auf; mit Inhalt automatisch offen)
 - Termin-Fenster nur so hoch wie nötig
