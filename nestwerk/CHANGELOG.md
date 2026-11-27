@@ -1,5 +1,10 @@
 # Änderungen
 
+## 0.17.7
+- Einzeln geänderter Serientermin zeigt beim erneuten Bearbeiten seine eigenen Angaben statt der der Serie
+- Anmeldeseite: „Board“ in der Überschrift grau
+- Kalender-Tagesfenster: Plus oben rechts statt ✕ (wie auf der Startseite), keine Linie unter dem letzten Termin
+
 ## 0.17.6
 - Serientermine: beim Speichern und Löschen wählen, ob nur dieser Termin oder alle Termine der Serie gemeint sind
 - Beim Bearbeiten einer Serie steht das Datum des angetippten Termins im Formular
