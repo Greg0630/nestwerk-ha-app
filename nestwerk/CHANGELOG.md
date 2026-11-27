@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.17.6
+- Serientermine: beim Speichern und Löschen wählen, ob nur dieser Termin oder alle Termine der Serie gemeint sind
+- Beim Bearbeiten einer Serie steht das Datum des angetippten Termins im Formular
+
 ## 0.17.5
 - Startseite: unter dem Schul-Eintrag wieder die durchgehende Linie statt der Überschrift „Termine“
 
