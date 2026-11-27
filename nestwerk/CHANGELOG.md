@@ -1,5 +1,11 @@
 # Änderungen
 
+## 0.17.9
+- Termin-Formular: Speichern per Haken oben rechts statt ✕; „Speichern“ und „Abbrechen“ unten entfallen (Abbrechen per Wischen)
+- „Weitere Angaben“ in Akzentfarbe, ohne Trennlinie
+- Alle einzeiligen Felder im Formular gleich hoch (auch Erinnerung bei ganztägig)
+- Fenster: Titelzeile bleibt beim Scrollen stehen, mit dünner Linie darunter
+
 ## 0.17.8
 - Dünnere Rahmen um Eingabefelder und umrandete Knöpfe
 
