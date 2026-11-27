@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.19.4
+- Teilen: Fenster öffnet erst, wenn die Prüfung fertig ist, gleich in fertiger Größe (kein kurzes kleines Fenster mehr); „Link wird geprüft …“ nur, wenn es länger als 1,5 s dauert
+
 ## 0.19.3
 - Teilen: erst „Link wird geprüft …“, dann direkt das passende Fenster (kein kurzes Aufblitzen des Listen-Formulars)
 
