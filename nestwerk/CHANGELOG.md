@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.18.1
+- Links in Notizen sind klickbar („Link: domain.de ↗“) – in Listen direkt, bei Terminen unter dem Notiz-Feld
+- Teilen-Menü: eine dabei neu angelegte Liste ist zunächst nur für dich sichtbar
+
 ## 0.18.0
 - Teilen (Android): FamilyBoard erscheint im Teilen-Menü; Geteiltes landet auf einer bestehenden oder neuen Liste (Link als Notiz, mehrere Zeilen auf Wunsch als einzelne Einträge). Dafür die App einmal neu auf den Startbildschirm legen.
 
