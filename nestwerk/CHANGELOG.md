@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.18.2
+- Seite „Ich“: ohne Überschrift, obere Linie und Hinweistext; Familienbilder etwas größer und mittig unter dem Profilbild, „Bearbeiten“ bündig
+
 ## 0.18.1
 - Links in Notizen sind klickbar („Link: domain.de ↗“) – in Listen direkt, bei Terminen unter dem Notiz-Feld
 - Teilen-Menü: eine dabei neu angelegte Liste ist zunächst nur für dich sichtbar
