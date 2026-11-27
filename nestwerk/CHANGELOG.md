@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.19.2
+- Rezept: ausgewählte Zutaten kommen immer auf die Einkaufsliste (ohne Listenauswahl), Knopf „Auf Einkaufsliste“
+
 ## 0.19.1
 - Teilen-Menü: bei erkanntem Rezept Umschalter „Als Rezept | Auf Liste“ mit Vorschau; der Haken speichert das Gewählte
 - Rezept-Titel ohne Zusätze wie „Rezept des Tages 12.11.2015“ oder „| Chefkoch“
