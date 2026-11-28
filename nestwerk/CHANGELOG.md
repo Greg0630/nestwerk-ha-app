@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.20.6
+- Startseite und Rezept: senkrechter Trennstrich mit gleichem Abstand zu den Linien oben und unten
+
 ## 0.20.5
 - Kochmodus: Rezeptname und „Schritt x von y“ in eigenen Zeilen
 
