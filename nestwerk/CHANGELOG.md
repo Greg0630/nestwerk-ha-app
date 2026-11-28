@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.20.4
+- Rezept: Portionen rechtsbündig, − und + ohne Kreise
+- Kochmodus: Timer vibriert auch bei ausgeschaltetem Display (per Mitteilung, wenn Mitteilungen erlaubt sind)
+
 ## 0.20.3
 - Home Assistant: Lebenszeichen alle 30 s – nach kurzem WLAN-Aussetzer verbindet die App neu, statt still stehen zu bleiben; ein Fehler bei einer HA-Meldung beendet die App nicht mehr
 - Google: abgelehntes Token wird sofort erneuert; nach „Trennen“ kein altes Konto mehr; gelöschter Kalender wird klar gemeldet
