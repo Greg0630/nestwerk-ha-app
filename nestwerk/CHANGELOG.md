@@ -1,5 +1,12 @@
 # Änderungen
 
+## 0.20.2
+Sicherheitsprüfung:
+- Push-Abos nur noch für echte Push-Dienste (kein beliebiges Ziel im Heimnetz)
+- Kinder entfernen Home-Assistant-Listen nur aus der App, nicht in HA
+- Rezeptsammlungen löschen nur Eltern
+- Ersteinrichtung kann nicht doppelt laufen
+
 ## 0.20.1
 - Escape schließt nur das oberste Fenster (Rückfrage, Kochmodus) statt aller darunter
 - Kalender: beim schnellen Blättern keine Termine aus dem falschen Monat
