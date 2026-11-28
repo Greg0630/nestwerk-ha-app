@@ -1,5 +1,14 @@
 # Änderungen
 
+## 0.20.1
+- Escape schließt nur das oberste Fenster (Rückfrage, Kochmodus) statt aller darunter
+- Kalender: beim schnellen Blättern keine Termine aus dem falschen Monat
+- Einkaufsliste: „Rückgängig“ nach dem Abhaken klappt auch bei offline eingetragenen Einträgen
+- Kochmodus: kein Absturz bei doppelten Zutaten/Timern; Wecker piept auch nach mehreren Timern
+- Teilen: spätes Rezept-Ergebnis schaltet nicht mehr ungefragt um; neue Liste braucht einen Namen
+- Eintrag: Hinweis, wenn ohne Namen gespeichert werden soll
+- Startseite: über Mitternacht offen – der gezeigte Tag bleibt derselbe
+
 ## 0.20.0
 Prüfung des Codes – Fehler behoben:
 - Rezept-Import: Schutz vor Abrufen im Heimnetz verschärft (IPv6-Schreibweisen, DNS-Rebinding), Größenlimit beim Lesen, ungültige Zeichen brechen nicht mehr ab, mehr Seiten werden erkannt
