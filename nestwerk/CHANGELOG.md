@@ -1,5 +1,15 @@
 # Änderungen
 
+## 0.20.0
+Prüfung des Codes – Fehler behoben:
+- Rezept-Import: Schutz vor Abrufen im Heimnetz verschärft (IPv6-Schreibweisen, DNS-Rebinding), Größenlimit beim Lesen, ungültige Zeichen brechen nicht mehr ab, mehr Seiten werden erkannt
+- Rezepte: Mengen wie „1/2 TL“ und „1 1/2 kg“ werden richtig gelesen
+- Listen: geleerte Notiz bleibt leer (auch bei HA-Beschreibung); Notizen und Fotos bleiben, wenn HA kurz eine leere Liste meldet; abgelehnte Änderungen speichern nichts; entfernte Listen nehmen Vorschläge, Notizen und Anhänge mit; fehlgeschlagenes Hinzufügen hinterlässt nichts
+- Offline vorgemerkte Änderungen gehen bei abgelaufener Anmeldung nicht mehr verloren
+- Kalender: Suche über mehr als 400 Tage geht wieder; beim Verschieben einer Serie wandern Ausfälle mit; .ics-Import: abgesagte Serientermine, Outlook-Zeitzonen in Ausnahmen, kein doppelter Import; HA-Import: Serien mit fester Anzahl enden richtig
+- Login-Bremse lässt sich im Heimnetz nicht mehr umgehen; iCal-Links nach 5 MB abgebrochen
+- Benachrichtigungen: Erinnerungen auch für Termine, die kurz vorher in Google angelegt wurden; „morgen“ bei Terminen nach Mitternacht; keine doppelten Meldungen bei Änderungen von außen; vorgezogene Termine heißen „geändert“; Versandfehler bringen den Server nicht mehr zum Absturz
+
 ## 0.19.5
 - Kochmodus: Schritte in ruhigerer Schrift (kleiner, halbfett, mehr Zeilenabstand) – lange Schritte passen besser
 
