@@ -1,5 +1,8 @@
 # Änderungen
 
+## 0.20.5
+- Kochmodus: Rezeptname und „Schritt x von y“ in eigenen Zeilen
+
 ## 0.20.4
 - Rezept: Portionen rechtsbündig, − und + ohne Kreise
 - Kochmodus: Timer vibriert auch bei ausgeschaltetem Display (per Mitteilung, wenn Mitteilungen erlaubt sind)
