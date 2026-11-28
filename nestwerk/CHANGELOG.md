@@ -1,5 +1,12 @@
 # Änderungen
 
+## 0.20.3
+- Home Assistant: Lebenszeichen alle 30 s – nach kurzem WLAN-Aussetzer verbindet die App neu, statt still stehen zu bleiben; ein Fehler bei einer HA-Meldung beendet die App nicht mehr
+- Google: abgelehntes Token wird sofort erneuert; nach „Trennen“ kein altes Konto mehr; gelöschter Kalender wird klar gemeldet
+- Termine und Erinnerungen an den Tagen der Zeitumstellung (früher Morgen) stimmen
+- Profilbilder aus HA: ein fehlerhaftes Bild hält die anderen nicht auf; in der App gesetzte Bilder bleiben
+- Datenbankfehler (z. B. Speicher voll) werden richtig protokolliert
+
 ## 0.20.2
 Sicherheitsprüfung:
 - Push-Abos nur noch für echte Push-Dienste (kein beliebiges Ziel im Heimnetz)
